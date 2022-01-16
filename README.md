@@ -6,6 +6,12 @@ Framework: Cucumber, Selenium
 
 Website: https://formy-project.herokuapp.com/
 
+Action: 
+
+_Type information on Formy Scroll page
+_Verify new page on Swtich Window page
+_Type DateTime on DateTime page and Check it
+
 What is CUCUMBER?
 
 Cucumber is a testing tool that supports Behavior Driven Development (BDD). It offers a way to write tests that anybody can understand, regardless of their technical knowledge. In BDD, users (business analysts, product owners) first write scenarios or acceptance tests that describe the behavior of the system from the customer’s perspective, for review and sign-off by the product owners before developers write their codes. Cucumber framework uses Ruby programming language.
