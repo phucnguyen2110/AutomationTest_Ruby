@@ -2,7 +2,7 @@
 
 Language: Ruby
 
-Framework: Cucumber, Selenium
+Framework: Cucumber
 
 Website: https://formy-project.herokuapp.com/
 
